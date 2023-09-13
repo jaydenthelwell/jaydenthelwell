@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **an app that assists carers note their tasks**
+- 👯 I’m looking to collaborate on **an app that assists carers take notes on their clients **
 
 - 💬 Ask me about **Ruby, HTML, CSS**
 
