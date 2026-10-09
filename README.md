@@ -7,13 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **an app that assists carers take notes on their clients **
-
-- 💬 Ask me about **Ruby, HTML, CSS**
-
 - 📫 How to reach me **jaydenthelwell02@gmail.com**
-
-- ⚡ Fun fact: **The 'fox' in the Mozilla Firefox logo is a red panda. Google's name was the fruit of a spelling mistake.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
